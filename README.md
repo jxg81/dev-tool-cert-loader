@@ -14,7 +14,7 @@ You can optionally supply a PEM formatted certificate bundle to add to the cert 
 > These utilities are not affiliated with, nor supported by Zscaler in any way.
 
 # Usage
-Simply run the script from the command line and it will auto detect platfrom type, collect system root certs and apply appropriate application specific settings.
+Simply run the script from the command line and it will auto detect platform type, collect system root certs and apply appropriate application specific settings.
 
 ```bash
 ./config_ssl.py
