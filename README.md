@@ -9,6 +9,8 @@ This script is designed to set SSL/TLS root certificate configurations for a ran
  - Most apps that rely on the OpenSSL cert store configuration
 
 You can optionally supply a PEM formatted certificate bundle to add to the cert bundle that will be created from the platform specific system root certs.
+> [!NOTE]
+> This script requires administrative / sudo privileges to manage certificate and system settings
 
 > [!IMPORTANT]
 > These utilities are not affiliated with, nor supported by Zscaler in any way.
